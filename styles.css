@@ -3,6 +3,11 @@
 html {
   font-size: 18px;
   font-family: 'Inknut Antiqua', serif;
+  background-color: #550055;
+}
+
+h1 {
+  text-align: right;
 }
 
 h1, h2 {
