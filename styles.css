@@ -47,4 +47,18 @@ ol li ul {
   padding: none;
 }
 
-ol > li:nth-child(an+b)
+ol > li:nth-child(2n+1) {
+  background-color: green;
+}
+
+[title]:hover {
+  text-decoration: none;
+}
+
+li ul li:hover {
+  background-color: yellow;
+}
+
+li ul li:active {
+  background-color: red;
+}
